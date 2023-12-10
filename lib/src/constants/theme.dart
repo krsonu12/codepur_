@@ -11,11 +11,11 @@ class AppTheme {
       letterSpacing: 0,
     ),
     title2: const TextStyle(
-      fontSize: 25,
-      fontWeight: FontWeight.w500,
-      height: 30 / 25,
-      letterSpacing: 0,
-    ),
+        fontSize: 20,
+        fontWeight: FontWeight.w500,
+        height: 30 / 20,
+        letterSpacing: 0,
+        color: Colors.white),
   );
 }
 
